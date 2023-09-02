@@ -66,7 +66,3 @@ You are expected to ensure that the MP3 file meets the following specifications:
 ## Conclusion
 
 This challenge is designed to assess your skills in audio processing, data validation, and software testing. Approach it methodically, ensuring every specification is met and validated. Good luck!
-
----
-
-You can use the above markdown content for your challenge README.md file. Adjust any details, such as the MP3 filename, if necessary.
