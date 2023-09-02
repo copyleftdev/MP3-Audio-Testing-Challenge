@@ -17,7 +17,7 @@ Your challenge is to extract the following details from the MP3 file:
 - Sample Rate
 - Bit Rate
 - RMS Value
-- Spectrogram File Name
+- Spectrogram Analysis
 - MD5 Checksum
 - SHA256 Checksum
 
